@@ -9,6 +9,7 @@ The notebook evaluates the following models:
 ### DQN Models:
 - **DQN Base**: Standard Deep Q-Network without modifications.
 - **DQN + Reward Shaping**: Adds reward shaping to guide the agent's learning process more effectively.
+- **Dueling DQN**: Utilizes the Dueling Architecture, which separates the state value and advantage functions to improve stability.
 - **Dueling DQN + Reward Shaping**: Combines the Dueling Architecture and reward shaping, where the Dueling Architecture separates the state value and advantage functions to improve stability.
 
 ### PPO Models:
