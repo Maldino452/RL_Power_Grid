@@ -1,4 +1,4 @@
-# RL_Power_Grid
+# RL_Power_Grid 
 
 This repository contains implementations of **Deep Q-Network (DQN)** and **Proximal Policy Optimization (PPO)** models applied to a custom environment for power grid stabilization using the **Grid2Op** simulation framework. The objective of this project is to assess and enhance the performance of reinforcement learning agents in maintaining grid stability and maximizing power flow under **N-1 security constraints**. The project explores different configurations, including **reward shaping**, **action enhancements**, and **scheduling observation**, to improve agent performance and training stability.
 
